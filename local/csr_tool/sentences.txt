@@ -1,0 +1,12 @@
+s01.wav
+s02.wav
+s03.wav
+s04.wav
+s05.wav
+s06.wav
+s07.wav
+s08.wav
+s09.wav
+s10.wav
+s11.wav
+s12.wav

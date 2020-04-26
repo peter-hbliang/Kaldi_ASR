@@ -1,0 +1,413 @@
+<eps> <eps> sil
+a a a
+ai ai a yi3
+an an a en
+ang ang a ng
+ao ao a wu3
+ba ba b a
+bai bai b a yi3
+ban ban b a en
+bang bang b a ng
+bao bao b a wu3
+bei bei b eh yi3
+ben ben b e en
+beng beng b e ng
+bi bi b yi2
+bian bian b yi1 a en
+biao biao b yi1 a wu3
+bie bie b yi1 eh
+bin bin b yi1 e en
+bing bing b yi1 e ng
+bo bo b o
+bu bu b wu2
+ca ca c a
+cai cai c a yi3
+can can c a en
+cang cang c a ng
+cao cao c a wu3
+ce ce c e
+cen cen c e en
+ceng ceng c e ng
+cha cha ch a
+chai chai ch a yi3
+chan chan ch a en
+chang chang ch a ng
+chao chao ch a wu3
+che che ch e
+chen chen ch e en
+cheng cheng ch e ng
+chi chi ch FNULL1
+chong chong ch wu1 e ng
+chou chou ch o wu3
+chu chu ch wu2
+chua chua ch wu1 a
+chuai chuai ch wu1 a yi3
+chuan chuan ch wu1 a en
+chuang chuang ch wu1 a ng
+chui chui ch wu1 eh yi3
+chun chun ch wu1 e en
+chuo chuo ch wu1 o
+ci ci c FNULL2
+cong cong c wu1 e ng
+cou cou c o wu3
+cu cu c wu2
+cuan cuan c wu1 a en
+cui cui c wu1 eh yi3
+cun cun c wu1 e en
+cuo cuo c wu1 o
+da da d a
+dai dai d a yi3
+dan dan d a en
+dang dang d a ng
+dao dao d a wu3
+de de d e
+dei dei d eh yi3
+deng deng d e ng
+di di d yi2
+dian dian d yi1 a en
+diao diao d yi1 a wu3
+die die d yi1 eh
+ding ding d yi1 e ng
+diu diu d yi1 o wu3
+dong dong d wu1 e ng
+dou dou d o wu3
+du du d wu2
+duan duan d wu1 a en
+dui dui d wu1 eh yi3
+dun dun d wu1 e en
+duo duo d wu1 o
+e e e
+eh eh eh
+ei ei eh yi3
+en en e en
+eng eng e ng
+er er er
+fa fa f a
+fan fan f a en
+fang fang f a ng
+fei fei f eh yi3
+fen fen f e en
+feng feng f e ng
+fo fo f o
+fou fou f o wu3
+fu fu f wu2
+ga ga g a
+gai gai g a yi3
+gan gan g a en
+gang gang g a ng
+gao gao g a wu3
+ge ge g e
+gei gei g eh yi3
+gen gen g e en
+geng geng g e ng
+gong gong g wu1 e ng
+gou gou g o wu3
+gu gu g wu2
+gua gua g wu1 a
+guai guai g wu1 a yi3
+guan guan g wu1 a en
+guang guang g wu1 a ng
+gui gui g wu1 eh yi3
+gun gun g wu1 e en
+guo guo g wu1 o
+ha ha h a
+hai hai h a yi3
+han han h a en
+hang hang h a ng
+hao hao h a wu3
+he he h e
+hei hei h eh yi3
+hen hen h e en
+heng heng h e ng
+hong hong h wu1 e ng
+hou hou h o wu3
+hu hu h wu2
+hua hua h wu1 a
+huai huai h wu1 a yi3
+huan huan h wu1 a en
+huang huang h wu1 a ng
+hui hui h wu1 eh yi3
+hun hun h wu1 e en
+huo huo h wu1 o
+ji ji j yi2
+jia jia j yi1 a
+jian jian j yi1 a en
+jiang jiang j yi1 a ng
+jiao jiao j yi1 a wu3
+jie jie j yi1 eh
+jin jin j yi1 e en
+jing jing j yi1 e ng
+jiong jiong j yu1 e ng
+jiu jiu j yi1 o wu3
+ju ju j yu2
+juan juan j yu1 a en
+jue jue j yu1 eh
+jun jun j yu1 e en
+ka ka k a
+kai kai k a yi3
+kan kan k a en
+kang kang k a ng
+kao kao k a wu3
+ke ke k e
+ken ken k e en
+keng keng k e ng
+kong kong k wu1 e ng
+kou kou k o wu3
+ku ku k wu2
+kua kua k wu1 a
+kuai kuai k wu1 a yi3
+kuan kuan k wu1 a en
+kuang kuang k wu1 a ng
+kui kui k wu1 eh yi3
+kun kun k wu1 e en
+kuo kuo k wu1 o
+l:un l:un l yu1 e en
+la la l a
+lai lai l a yi3
+lan lan l a en
+lang lang l a ng
+lao lao l a wu3
+le le l e
+lei lei l eh yi3
+leng leng l e ng
+li li l yi2
+lia lia l yi1 a
+lian lian l yi1 a en
+liang liang l yi1 a ng
+liao liao l yi1 a wu3
+lie lie l yi1 eh
+lin lin l yi1 e en
+ling ling l yi1 e ng
+liu liu l yi1 o wu3
+lo lo l o
+long long l wu1 e ng
+lou lou l o wu3
+lu lu l wu2
+lu: lu: l yu2
+lu:an lu:an l yu1 a en
+lu:e lu:e l yu1 eh
+luan luan l wu1 a en
+lun lun l wu1 e en
+luo luo l wu1 o
+ma ma m a
+mai mai m a yi3
+man man m a en
+mang mang m a ng
+mao mao m a wu3
+me me m e
+mei mei m eh yi3
+men men m e en
+meng meng m e ng
+mi mi m yi2
+mian mian m yi1 a en
+miao miao m yi1 a wu3
+mie mie m yi1 eh
+min min m yi1 e en
+ming ming m yi1 e ng
+miu miu m yi1 o wu3
+mo mo m o
+mou mou m o wu3
+mu mu m wu2
+na na n a
+nai nai n a yi3
+nan nan n a en
+nang nang n a ng
+nao nao n a wu3
+ne ne n e
+nei nei n eh yi3
+nen nen n e en
+neng neng n e ng
+ni ni n yi2
+nian nian n yi1 a en
+niang niang n yi1 a ng
+niao niao n yi1 a wu3
+nie nie n yi1 eh
+nin nin n yi1 e en
+ning ning n yi1 e ng
+niu niu n yi1 o wu3
+nong nong n wu1 e ng
+nou nou n o wu3
+nu nu n wu2
+nu: nu: n yu2
+nu:e nu:e n yu1 eh
+nuan nuan n wu1 a en
+nuo nuo n wu1 o
+o o o
+ou ou o wu3
+pa pa p a
+pai pai p a yi3
+pan pan p a en
+pang pang p a ng
+pao pao p a wu3
+pei pei p eh yi3
+pen pen p e en
+peng peng p e ng
+pi pi p yi2
+pian pian p yi1 a en
+piao piao p yi1 a wu3
+pie pie p yi1 eh
+pin pin p yi1 e en
+ping ping p yi1 e ng
+po po p o
+pou pou p o wu3
+pu pu p wu2
+qi qi q yi2
+qia qia q yi1 a
+qian qian q yi1 a en
+qiang qiang q yi1 a ng
+qiao qiao q yi1 a wu3
+qie qie q yi1 eh
+qin qin q yi1 e en
+qing qing q yi1 e ng
+qiong qiong q yu1 e ng
+qiu qiu q yi1 o wu3
+qu qu q yu2
+quan quan q yu1 a en
+que que q yu1 eh
+qun qun q yu1 e en
+ran ran r a en
+rang rang r a ng
+rao rao r a wu3
+re re r e
+ren ren r e en
+reng reng r e ng
+ri ri r FNULL1
+rong rong r wu1 e ng
+rou rou r o wu3
+ru ru r wu2
+ruan ruan r wu1 a en
+rui rui r wu1 eh yi3
+run run r wu1 e en
+ruo ruo r wu1 o
+sa sa s a
+sai sai s a yi3
+san san s a en
+sang sang s a ng
+sao sao s a wu3
+se se s e
+sei sei s eh yi3
+sen sen s e en
+seng seng s e ng
+sha sha sh a
+shai shai sh a yi3
+shan shan sh a en
+shang shang sh a ng
+shao shao sh a wu3
+she she sh e
+shei shei sh eh yi3
+shen shen sh e en
+sheng sheng sh e ng
+shi shi sh FNULL1
+shou shou sh o wu3
+shu shu sh wu2
+shua shua sh wu1 a
+shuai shuai sh wu1 a yi3
+shuan shuan sh wu1 a en
+shuang shuang sh wu1 a ng
+shui shui sh wu1 eh yi3
+shun shun sh wu1 e en
+shuo shuo sh wu1 o
+si si s FNULL2
+sil sil sil
+song song s wu1 e ng
+sou sou s o wu3
+su su s wu2
+suan suan s wu1 a en
+sui sui s wu1 eh yi3
+sun sun s wu1 e en
+suo suo s wu1 o
+ta ta t a
+tai tai t a yi3
+tan tan t a en
+tang tang t a ng
+tao tao t a wu3
+te te t e
+teng teng t e ng
+ti ti t yi2
+tian tian t yi1 a en
+tiao tiao t yi1 a wu3
+tie tie t yi1 eh
+ting ting t yi1 e ng
+tong tong t wu1 e ng
+tou tou t o wu3
+tu tu t wu2
+tuan tuan t wu1 a en
+tui tui t wu1 eh yi3
+tun tun t wu1 e en
+tuo tuo t wu1 o
+wa wa wu1 a
+wai wai wu1 a yi3
+wan wan wu1 a en
+wang wang wu1 a ng
+wei wei wu1 eh yi3
+wen wen wu1 e en
+weng weng wu1 e ng
+wo wo wu1 o
+wu wu wu2
+xi xi x yi2
+xia xia x yi1 a
+xian xian x yi1 a en
+xiang xiang x yi1 a ng
+xiao xiao x yi1 a wu3
+xie xie x yi1 eh
+xin xin x yi1 e en
+xing xing x yi1 e ng
+xiong xiong x yu1 e ng
+xiu xiu x yi1 o wu3
+xu xu x yu2
+xuan xuan x yu1 a en
+xue xue x yu1 eh
+xun xun x yu1 e en
+ya ya yi1 a
+yai yai yi1 a yi3
+yan yan yi1 a en
+yang yang yi1 a ng
+yao yao yi1 a wu3
+ye ye yi1 eh
+yi yi yi2
+yin yin yi1 e en
+ying ying yi1 e ng
+yo yo yi1 o
+yong yong yu1 e ng
+you you yi1 o wu3
+yu yu yu2
+yuan yuan yu1 a en
+yue yue yu1 eh
+yun yun yu1 e en
+za za z a
+zai zai z a yi3
+zan zan z a en
+zang zang z a ng
+zao zao z a wu3
+ze ze z e
+zei zei z eh yi3
+zen zen z e en
+zeng zeng z e ng
+zha zha zh a
+zhai zhai zh a yi3
+zhan zhan zh a en
+zhang zhang zh a ng
+zhao zhao zh a wu3
+zhe zhe zh e
+zhei zhei zh eh yi3
+zhen zhen zh e en
+zheng zheng zh e ng
+zhi zhi zh FNULL1
+zhong zhong zh wu1 e ng
+zhou zhou zh o wu3
+zhu zhu zh wu2
+zhua zhua zh wu1 a
+zhuai zhuai zh wu1 a yi3
+zhuan zhuan zh wu1 a en
+zhuang zhuang zh wu1 a ng
+zhui zhui zh wu1 eh yi3
+zhun zhun zh wu1 e en
+zhuo zhuo zh wu1 o
+zi zi z FNULL2
+zong zong z wu1 e ng
+zou zou z o wu3
+zu zu z wu2
+zuan zuan z wu1 a en
+zui zui z wu1 eh yi3
+zun zun z wu1 e en
+zuo zuo z wu1 o
