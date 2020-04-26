@@ -13,7 +13,7 @@ if [ -d $test_data_dir ]; then
    exit
 fi
 
-mkdir $test_data_dir
+mkdir -p $test_data_dir
 
 for i in ${wav_data}/*
   do
