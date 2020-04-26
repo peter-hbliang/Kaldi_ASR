@@ -15,7 +15,7 @@ fi
 
 mkdir $test_data_dir
 
-for i in ${1}/*
+for i in ${wav_data}/*
   do
   file=`basename $i`
   echo "${file} ${file}" >> $test_data_dir/utt2spk
