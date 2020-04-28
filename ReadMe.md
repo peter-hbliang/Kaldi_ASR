@@ -9,11 +9,11 @@
   ### Download pre-trained LM
  
 ```
-./data.sh
+bash data.sh
 ```
   ### Preprocess
 ```
-./preprocess.sh 3 wav/tcc300 data/tcc300
+bash preprocess.sh 3 wav/tcc300 data/tcc300
 ```
 1. 將你要辨識的音檔資料夾，放進wav這個資料夾裡。
 1. 第一個位置請放num_of_jobs(num_of_jobs請勿超過語者數量)。
@@ -21,7 +21,7 @@
 3. 抽好的特徵參數將會被放到data裡。
 ## Decode
 ```
-./decode.sh 3 data/tcc300 decode-tcc300 decode-tcc300_lm
+bash decode.sh 3 data/tcc300 decode-tcc300 decode-tcc300_lm
 ```
   
 1. 第一個位置一樣請決定number of jobs(decode 是使用cpu，每個job會占用約7~9G的RAM)。
