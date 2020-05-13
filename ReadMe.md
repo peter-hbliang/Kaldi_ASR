@@ -13,6 +13,7 @@ bash data.sh
 ```
   ### Preprocess
 ```
+bash utils/parse_options.sh
 bash preprocess.sh 3 wav/tcc300 data/tcc300
 ```
 1. 將你要辨識的音檔資料夾，放進wav這個資料夾裡。
@@ -21,7 +22,7 @@ bash preprocess.sh 3 wav/tcc300 data/tcc300
 3. 抽好的特徵參數將會被放到data裡。
 ## Decode
 ```
-bash decode.sh 3 data/tcc300 decode-tcc300 decode-tcc300_lm
+bash decode.sh 1 data/tcc300 decode-tcc300 decode-tcc300_lm
 ```
   
 1. 第一個位置一樣請決定number of jobs(decode 是使用cpu，每個job會占用約7~9G的RAM)。
