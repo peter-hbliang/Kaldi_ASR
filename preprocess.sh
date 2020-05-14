@@ -1,7 +1,9 @@
 #!/bin/bash
 # $1 = 音檔目錄; $2 = 音檔抽特徵後之存放位置
 
-
+kaldi_root=`echo "$KALDI_ROOT"` 
+[ -e "$kaldi_root" ] && echo "your kaldi root is $kaldi_root" 
+[ ! -e "$kaldi_root" ] && echo "set your kaldi root first.(e.g. export KALDI_ROOT=/opt/kaldi)" && exit 1
 
 echo "make fake wav.scp, utt2spk, spk2utt, text"
 num_of_jobs=$1
@@ -28,4 +30,3 @@ cp $test_data_dir/utt2spk $test_data_dir/text
 echo "make fbank & compute cmvn"
 steps/make_fbank.sh --nj $num_of_jobs $test_data_dir $test_data_dir/log $test_data_dir/fbank
 steps/compute_cmvn_stats.sh $test_data_dir $test_data_dir/log $test_data_dir/cmvn
-echo "done!"

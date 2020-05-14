@@ -13,8 +13,8 @@ bash data.sh
 ```
   ### Preprocess
 ```
-bash utils/parse_options.sh
-bash preprocess.sh 3 wav/tcc300 data/tcc300
+export KALDI_ROOT="<your kaldi root>"
+bash preprocess.sh 1 wav/tcc300 data/tcc300
 ```
 1. 將你要辨識的音檔資料夾，放進wav這個資料夾裡。
 1. 第一個位置請放num_of_jobs(num_of_jobs請勿超過語者數量)。
